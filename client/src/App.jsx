@@ -1,8 +1,8 @@
 import './App.css';
 import { Outlet } from 'react-router-dom';
 import Navbar from './components/Navbar';
-// import SearchBooks from './pages/SearchBooks';
-// import SavedBooks from './pages/SavedBooks';
+import SearchBooks from './pages/SearchBooks';
+import SavedBooks from './pages/SavedBooks';
 import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
 
 const client = new ApolloClient({
