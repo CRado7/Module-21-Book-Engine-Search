@@ -17,7 +17,7 @@ This application lets users look up books from the Google Book API. When users c
 ## Usage
 See Installation
 
-Go to the GitHub Repository <a href="https://github.com/CRado7/SVG-Logo-Maker">here</a>.
+Go to the GitHub Repository <a href="https://github.com/CRado7/Module-21-Book-Engine-Search">here</a>.
 <br>
 See examples here
 ## Credits
